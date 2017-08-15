@@ -1,0 +1,21 @@
+.panel-heading span.pull-right
+{
+    margin-top: -22px;
+    font-size: 16px;
+    margin-right: -10px;
+}
+
+.clickable {
+    background: rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    padding: 0 6px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
